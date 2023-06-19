@@ -1,0 +1,2 @@
+# Bacteria_AutoObjectDetect
+病菌图像自动分析与识别处理的系统设计
